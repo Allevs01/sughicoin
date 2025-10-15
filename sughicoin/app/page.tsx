@@ -25,7 +25,7 @@ const DISCORD_URL: string = "https://discord.gg/"; // <- optional
 const DEXS_URL: string = "https://www.dexscreener.com/"; // <- update with your pair when available
 
 // 🖼️ Logo path (put the image file in /public/). Spaces are URL-encoded to avoid 404s.
-const LOGO_SRC: string = "/WhatsApp%20Image%202025-10-15%20at%2016.47.48.jpeg";
+const LOGO_SRC: string = "/logo.jpeg";
 
 export default function Page() {
   const [copied, setCopied] = useState<boolean>(false);
