@@ -16,6 +16,8 @@ import {
   Link as LinkIcon,
 } from "lucide-react";
 
+
+
 // ✅ Replace these placeholders with your real data
 const PUMP_FUN_URL: string = "https://pump.fun/coin/7KNk3QRPDwia1ZFXgb5pMQ5R3JxBTK99XAr8pW6Dpump"; // <- direct link to your coin on Pump.fun
 const SUGO_MINT: string = "7KNk3QRPDwia1ZFXgb5pMQ5R3JxBTK99XAr8pW6Dpump"; // <- token mint/contract (Solana)
